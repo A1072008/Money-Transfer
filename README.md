@@ -27,17 +27,21 @@ With the first selection “Choose a player” you select the player you want to
 
 With the second selection "How much money do you want to transfer?" Enter the amount you want to transfer. If you enter something that is not a number, this error message will appear in the chat
 
+![image](https://github.com/A1072008/Money-Transfer/assets/156198696/fa187109-61e6-4a31-bfda-87cc748013df)
 
 
 The third selection "Greet" is optional with the greeting you send an additional message to the selected player
 
 Example of what it looks like when you transfer money:
 
+![image](https://github.com/A1072008/Money-Transfer/assets/156198696/03b85574-3885-40a7-8e59-c68583b2767c)
 
 
 Example of what it looks like when you get money:
 
+![image](https://github.com/A1072008/Money-Transfer/assets/156198696/24e676ed-b74e-41f5-93c2-8230d6eb98eb)
 
 
 You have to activate these experimental functions so that the addon (script) works 
 
+![image](https://github.com/A1072008/Money-Transfer/assets/156198696/8cfd60e3-76d5-4fd6-8078-75cec0f8c4b5)
